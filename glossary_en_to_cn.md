@@ -86,7 +86,7 @@ Consortium Blockchain：联盟链
 
 Contract Layer: 合约层
 
-Cross-Chain：跨链
+Cross-Chain/interblockchain：跨链
 
 Cross-linked dependencies 应该指的是模块间的交叉关联依赖
 
